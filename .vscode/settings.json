@@ -1,3 +1,4 @@
 {
-  "rubyLsp.formatter": "standard"
+  "rubyLsp.formatter": "standard",
+  "github.copilot.editor.enableAutoCompletions": false,
 }
